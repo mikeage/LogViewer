@@ -94,9 +94,9 @@ endif
 
 "- highlightings ---------------------------------------------------------------
 
-highlight def LogViewerFrom   cterm=NONE ctermfg=NONE ctermbg=DarkBlue gui=NONE guifg=NONE guibg=LightCyan
-highlight def LogViewerTo     cterm=NONE ctermfg=NONE ctermbg=Blue     gui=NONE guifg=NONE guibg=Cyan
-highlight def LogViewerTarget cterm=NONE ctermfg=NONE ctermbg=Yellow   gui=NONE guifg=NONE guibg=LightYellow
+"highlight def LogViewerFrom   cterm=NONE ctermfg=NONE ctermbg=DarkBlue gui=NONE guifg=NONE guibg=LightCyan
+"highlight def LogViewerTo     cterm=NONE ctermfg=NONE ctermbg=Blue     gui=NONE guifg=NONE guibg=Cyan
+"highlight def LogViewerTarget cterm=NONE ctermfg=NONE ctermbg=Yellow   gui=NONE guifg=NONE guibg=LightYellow
 
 
 "- signs -----------------------------------------------------------------------
